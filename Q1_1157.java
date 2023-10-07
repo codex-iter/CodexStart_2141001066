@@ -1,3 +1,9 @@
+/*
+ * Name: Saket Aryan
+ * Reg No: 2141001066
+ * PS LINK: https://cses.fi/problemset/task/1157/
+ */
+
 import java.util.Scanner;
 
 public class Q1_1157 {
